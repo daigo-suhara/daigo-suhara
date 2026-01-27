@@ -7,8 +7,8 @@ I am a student in a Japanese University.
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=neovim,vim,ansible,terraform,openstack,gcp,c,cpp,python,go,flutter,arduino,firebase,git,github,githubactions">
 
 ## 📨 Contact me.
-* [mail(suharadaigo@gmail.com)](suharadaigo@gmail.com)
-* [X](https://x.com/kimateku)**
+* mail -> suharadaigo@gmail.com
+* [x.com](https://x.com/kimateku)
 <!--
 **SuharaDaigo/SuharaDaigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
