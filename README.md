@@ -3,4 +3,4 @@ I am a student in a Japanese University.
 
 ## Contact me.
 * ✉️ suharadaigo@gmail.com
-* [![X (Twitter) URL](https://img.shields.io)](https://x.com/kimateku)
+* [![X (Twitter)](https://img.shields.io/twitter/url)](https://x.com/kimateku)
