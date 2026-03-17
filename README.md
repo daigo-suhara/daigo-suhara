@@ -1,6 +1,9 @@
 ## Profile
-I am a student in a Japanese University majoring in informatics.
-I am researching Human Robot Interaction.
+I am a student majoring in Information Science at a university in Japan.
+
+I am currently conducting research on human-robot interaction.
+
+
 
 ## Contact me.
 suharadaigo@gmail.com
